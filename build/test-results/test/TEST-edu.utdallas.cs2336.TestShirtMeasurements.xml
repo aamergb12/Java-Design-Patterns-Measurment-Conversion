@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.utdallas.cs2336.TestShirtMeasurements" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-10-01T03:59:04" hostname="Aamers-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="testSetup()" classname="edu.utdallas.cs2336.TestShirtMeasurements" time="0.002"/>
+  <testcase name="testCombined()" classname="edu.utdallas.cs2336.TestShirtMeasurements" time="0.001"/>
+  <testcase name="testConversion()" classname="edu.utdallas.cs2336.TestShirtMeasurements" time="0.0"/>
+  <testcase name="testMutation()" classname="edu.utdallas.cs2336.TestShirtMeasurements" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.utdallas.cs2336.TestConcreteMath" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-10-01T03:59:04" hostname="Aamers-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="testArithmetic()" classname="edu.utdallas.cs2336.TestConcreteMath" time="0.0"/>
+  <testcase name="testEquality()" classname="edu.utdallas.cs2336.TestConcreteMath" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.utdallas.cs2336.TestCallbacker" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-01T03:59:04" hostname="Aamers-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="testCallbacks()" classname="edu.utdallas.cs2336.TestCallbacker" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
