@@ -1,1 +1,28 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/abPKmq44)
+# Java Design Patterns & Measurement Conversion
+
+A Java project exploring interfaces, abstract classes, and callbacks with real-world applications like shirt measurements and mathematical computation.
+
+## 📦 Modules
+
+### 🔢 Measurement Conversion
+- Converts shirt sizes between inches and centimeters
+- Utilizes an enum (`Units`) for conversion logic
+
+### ➗ Math with Callbacks
+- `AbstractMath` defines a math API
+- `ConcreteMath` implements actual operations
+- Supports custom callbacks via `Callback` interface
+
+### 🔄 Callback Framework
+- `Callbacker` triggers callback methods under set conditions
+- Fully testable with JUnit-style test classes
+
+## 📁 Project Structure
+- `src/`: Java source files
+- `test/`: Unit test classes
+
+## 🧪 How to Run Tests
+```bash
+javac src/**/*.java test/*.java
+java test.TestConcreteMath
+java test.TestShirtMeasurements
